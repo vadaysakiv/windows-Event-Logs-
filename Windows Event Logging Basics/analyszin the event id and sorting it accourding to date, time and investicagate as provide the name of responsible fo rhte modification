@@ -7,4 +7,4 @@ to perform this here are is the steps i used
 
 1- open the event viewer
 2- in event viewer navigating to Windows Logs --> Security 
-3- in filter Current Log type event code 4624
+3- in filter Current Log type event code 4624 and 
