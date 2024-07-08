@@ -1,1 +1,9 @@
 
+<QueryList>
+  <Query Id="0" Path="Security">
+    <Select Path="Security">
+      *[System[(EventID=4907)]] and 
+      *[EventData[Data[@Name='ObjectName']='C:\Windows\Microsoft.NET\Framework64\v4.0.30319\WPF\wpfgfx_v0400.dll']]
+    </Select>
+  </Query>
+</QueryList>
