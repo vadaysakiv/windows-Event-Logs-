@@ -6,8 +6,11 @@ to perform this here are is the steps i used
 
 
 1- open the event viewer
+
 2- in event viewer navigating to Windows Logs --> Security 
+
 3- in filter Current Log type event code 4624 and using the timestamp of date 8 march 2022 and using random time as i will search the time manually on that date
+
 ![image](https://github.com/vadaysakiv/windows-Event-Logs-/assets/90182273/c3e3053e-4e7c-42a1-8c6c-208922e33efd)
 provided time 1 minute extra than target to get extra info 
 
