@@ -1,4 +1,4 @@
-PROBLEM:Analyze the event with ID 4624, that took place on 8/3/2022 at 10:23:25. Conduct a similar investigation as outlined in this section and provide the name of the executable responsible for the modification of the auditing settings as your answer.
+
 
 
 since ID 4624 mean it realted to SUCCESSFUL LOGON
