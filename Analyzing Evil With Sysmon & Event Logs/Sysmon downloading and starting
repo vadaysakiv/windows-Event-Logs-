@@ -1,0 +1,12 @@
+
+To get started, you can install Sysmon by downloading it from the official Microsoft documentation (https://docs.microsoft.com/en-us/sysinternals/downloads/sysmon). Once downloaded, open an administrator command prompt and execute the following command to install Sysmon.
+
+
+
+C:\Tools\Sysmon> sysmon.exe -i -accepteula -h md5,sha256,imphash -l -n
+
+
+To utilize a custom Sysmon configuration, execute the following after installing Sysmon.
+
+
+sysmon.exe -c filename.xml
